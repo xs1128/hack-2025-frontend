@@ -4,3 +4,8 @@ export { Home } from "./Home";
 export { NameInput } from "./NameInput";
 export { Quiz } from "./Quiz";
 export { Celebration } from "./Celebration";
+export { Shop } from "./Shop";
+export { Leaderboard } from "./Leaderboard";
+export { Scores } from "./Scores";
+export { DailyMission } from "./DailyMission";
+export { StrikeRecord } from "./StreakRecord";

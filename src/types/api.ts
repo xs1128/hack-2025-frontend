@@ -18,6 +18,7 @@ export interface User {
   created_at: Date;
   quiz: UserQuiz;
   store: UserStore;
+  pr?: number; // Percentile rank from backend
 }
 
 // API response types
